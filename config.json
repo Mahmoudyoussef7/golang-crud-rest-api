@@ -1,0 +1,4 @@
+{
+    "port":"8084",
+    "connection_string":"postgresql://mahmoud:g_6mHD3ciBxzXl9SoYAC1A@free-tier7.aws-eu-west-1.cockroachlabs.cloud:26257/productdb?sslmode=verify-full&options=--cluster%3Dproduct-3245"
+}
